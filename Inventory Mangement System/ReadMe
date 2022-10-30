@@ -1,0 +1,32 @@
+Multi-Threaded Java Application to Manage Stocks and Order Products in A Shop with Options for
+1> DB Persistence of the Data
+2> CSV File Based
+3> In built Java Serialization Based
+4> xml File based
+
+Can be Deployed in Tomcat
+
+Add Payment Option and Login Option;
+Add OAuth2 Security Features
+Later Will be migrated to Springboot- Angular Project - Deployed in AWS with Kafka, Docker and MongoDB Persist.
+
+Put in GitHub
+
+
+> convert it into Interface then class model; 
+Standardise a bit more;
+
+
+? Add Features for Concurrent Updation of XML file with new Products and Price
+
+#Add test class and all
+
+Develop This For 100 Products in a shop;
+
+Convert This To a Web Based Application with Angular
+Add Options to Signin and Payment linking, Store Locating , Transportation and Tracking;
+
+
+? Come with an Option to add multiple items at the same time
+
+> Store Table Script file 
